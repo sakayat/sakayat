@@ -17,8 +17,7 @@ I am a Python Developer specializing in building web applications with Django an
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sakayat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sakayat&theme=dark&hide_border=false)<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakayat&theme=dark&hide_border=true" alt="sakayat's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakayat&theme=dark&border=true" alt="sakayat's GitHub Stats" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=test&label=Profile%20Views&color=0&pretty=true)](https://github.com/sakayat)
