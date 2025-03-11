@@ -15,10 +15,6 @@ I am a Python Developer specializing in building web applications with Django an
 
 <p align="left"> <a href="https://www.linkedin.com/in/sakayatkabir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sakayat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakayat&theme=dark&border=true" alt="sakayat GitHub Stats" />
-
 ---
 [![](https://visitcount.itsvg.in/api?id=test&label=Profile%20Views&color=0&pretty=true)](https://github.com/sakayat)
 
