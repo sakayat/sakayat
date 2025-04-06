@@ -4,7 +4,7 @@ Hi 👋 My name is Sakayat Kabir Rashu
 Developer from Bangladesh
 -------------------------
 
-I am a Python Developer specializing in building web applications with Django and Django REST Framework. I also work with front-end technologies like React.js and Next.js, as well as server-side rendering using Node.js. I am passionate about optimizing performance and enhancing user experience.
+I am a Next.js developer with expertise in building high-performance, scalable web applications. I specialize in using Next.js for server-side rendering and optimizing load times for a seamless user experience. In addition, I work with Node.js and Express.js to build robust back-end solutions, ensuring smooth integration between the front-end and back-end. My focus is always on performance optimization and delivering efficient, dynamic websites.
 
 ### Skills
 <p align="left">
