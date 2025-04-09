@@ -4,7 +4,9 @@ Hi 👋 My name is Sakayat Kabir Rashu
 Developer from Bangladesh
 -------------------------
 
-I’m a Node.js developer with experience in React.js and Next.js. I’ve worked on several projects where I built dynamic, scalable web applications using Next.js, and I’m passionate about optimizing performance and creating seamless user experiences. I also have solid experience with Node.js and Express.js, developing strong back-end systems that integrate smoothly with the front-end. I focus on using modern JavaScript frameworks, making sure websites are responsive, efficient, and fast.
+I’m a full-stack developer with experience in Node.js, React.js, Next.js, Python, and Django. I’ve worked on several projects building dynamic, scalable web applications with Next.js and React.js, focusing on creating seamless and efficient user experiences. On the back-end, I have solid experience with Node.js, Express.js, and Django, developing robust, performant APIs and systems that integrate smoothly with front-end solutions.
+
+I’m passionate about optimizing web applications for speed, performance, and scalability, and I enjoy working with modern frameworks and technologies to build responsive, maintainable, and fast websites.
 
 ### Skills
 <p align="left">
