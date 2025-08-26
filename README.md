@@ -1,4 +1,4 @@
-Hi 👋 My name is Sakayat Kabir Rashu
+Hi 👋 My name is Sakhawat kabir Rashu
 ====================================
 
 Developer from Bangladesh
